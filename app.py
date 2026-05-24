@@ -87,23 +87,6 @@ st.markdown("""
     line-height: 1.6;
     margin-bottom: 24px;
 }
-@media print {
-    /* Cache la barre latérale et le menu du haut Streamlit */
-    [data-testid="stSidebar"], 
-    header[data-testid="stHeader"],
-    .stApp > header {
-        display: none !important;
-    }
-    
-    /* Force le fond principal en blanc */
-    .stApp {
-        background-color: white !important;
-    }
-    
-    /* Évite que les graphiques soient coupés en deux sur deux pages */
-    .stMainBlockContainer {
-        page-break-inside: avoid;
-    }
 </style>
 """, unsafe_allow_html=True)
 
