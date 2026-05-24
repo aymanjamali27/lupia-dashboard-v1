@@ -1,0 +1,19 @@
+Date,Client,Plateforme,Budget_Depense,Nombre_Leads,Nombre_Ventes,CA_Genere
+2026-05-01,Client_A,Meta Ads,150,45,3,600
+2026-05-01,Client_B,Google Ads,200,30,2,850
+2026-05-02,Client_A,Meta Ads,120,35,2,400
+2026-05-02,Client_C,TikTok Ads,80,50,4,200
+2026-05-03,Client_B,Meta Ads,100,20,1,300
+2026-05-03,Client_B,Google Ads,210,32,2,880
+2026-05-04,Client_A,Meta Ads,160,48,3,650
+2026-05-05,Client_C,TikTok Ads,90,55,5,220
+2026-05-06,Client_A,Google Ads,250,40,4,950
+2026-05-07,Client_B,Meta Ads,110,22,1,310
+2026-05-08,Client_C,TikTok Ads,85,45,3,190
+2026-05-09,Client_A,Meta Ads,140,40,2,550
+2026-05-10,Client_B,Google Ads,220,35,3,900
+2026-05-11,Client_A,Google Ads,240,38,3,920
+2026-05-12,Client_C,TikTok Ads,95,60,6,250
+2026-05-13,Client_B,Meta Ads,105,25,1,330
+2026-05-14,Client_A,Meta Ads,155,46,3,620
+2026-05-15,Client_B,Google Ads,205,31,2,860
